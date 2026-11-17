@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/lib/activity.ts","./src/lib/auth.ts","./src/lib/chat.ts","./src/lib/config.ts","./src/lib/media.ts","./src/lib/presence.ts","./src/lib/signaling.ts","./src/lib/supabase.ts"],"version":"5.9.3"}
